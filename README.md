@@ -1,12 +1,12 @@
 # Soruce: https://www.kaggle.com/code/akashkotal/heart-disease-eda-with-7-machine-learning-model
 
-### Heart Disease EDA with 7 Machine Learning
+#### Heart Disease EDA with 7 Machine Learning
 
-### Python Version (run code): ***Python 3.7.0***
+1 - Python Version (run code): ***Python 3.7.0***
 
-### Folder path on computer: ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA***
-  Write and change with your path on your computer
-&nbsp;<br>
+2 - Folder path on computer: ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA***
+3 - Make your floder and change with your path on your computer change with my path project
+
 
 ### Requirement library:   
   pip numpy
