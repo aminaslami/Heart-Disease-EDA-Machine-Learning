@@ -28,4 +28,9 @@
   
   pip pickle
 
+
+If get error like (no module name or found 'xgboost')
+**Run this code:** pip install xgboost
   
+Is maybe you get the similer error just install the library.
+
