@@ -11,7 +11,7 @@
 ![image](https://github.com/aminaslami/Heart-Disease-EDA-Machine-Learning/assets/101183453/4ae2a22e-fa61-46a6-baf0-d6f08b77203b)
 
 
-#### Requirement library:   
+#### 4 - Requirement library:   
   pip install numpy
   
   pip install pandas
@@ -32,9 +32,9 @@
 
 -------------------------------------------------------
 
-If get error like (no module name or found '**xgboost**')
+5 - If get error like (no module name or found '**xgboost**')
 
 **Run this code:** _pip install xgboost_
 
-Is maybe you get the similer error just install the library.
+**6 - Is maybe you get the similer error just install the library.**
 
