@@ -30,6 +30,7 @@
 
   pip install statsmodels
 
+-------------------------------------------------------
 
 If get error like (no module name or found '**xgboost**')
 
