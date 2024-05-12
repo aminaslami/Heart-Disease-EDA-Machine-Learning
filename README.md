@@ -12,25 +12,28 @@
 
 
 #### Requirement library:   
-  pip numpy
+  pip install numpy
   
-  pip pandas
+  pip install pandas
   
-  pip matplotlib
+  pip install matplotlib
   
-  pip seaborn
+  pip install seaborn
   
-  pip warnings
+  pip install warnings
   
-  pip os
+  pip install os
   
-  pip yellowbrick
+  pip install yellowbrick
   
-  pip pickle
+  pip install pickle
+
+  pip install statsmodels
 
 
-If get error like (no module name or found 'xgboost')
-**Run this code:** pip install xgboost
-  
+If get error like (no module name or found '**xgboost**')
+
+**Run this code:** _pip install xgboost_
+
 Is maybe you get the similer error just install the library.
 
