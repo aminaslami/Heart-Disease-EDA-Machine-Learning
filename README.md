@@ -3,7 +3,8 @@
 #### Heart Disease EDA with 7 Machine Learning
 
 1 - Python Version (run code): ***Python 3.7.0***
-
+  1.2 https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
+  
 2 - Folder path on computer: ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA***
 
 3 - Make your floder and change with your path on your computer change with my path project
