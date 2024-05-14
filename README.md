@@ -4,16 +4,16 @@
 
 1 - Python Version (run code): ***Python 3.7.0***
   
-  1.2 https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
+2 https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
   
-2 - Folder path on computer: ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA***
+3 - Folder path on computer: ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA***
 
-3 - Make your floder and change with your path on your computer change with my path project
+4 - Make your floder and change with your path on your computer change with my path project
 
 ![image](https://github.com/aminaslami/Heart-Disease-EDA-Machine-Learning/assets/101183453/4ae2a22e-fa61-46a6-baf0-d6f08b77203b)
 
 
-#### 4 - Requirement library:   
+#### 5 - Requirement library:   
   pip install numpy
   
   pip install pandas
@@ -34,9 +34,9 @@
 
 -------------------------------------------------------
 
-5 - If get error like (no module name or found '**xgboost**')
+6 - If get error like (no module name or found '**xgboost**')
 
 **Run this code:** _pip install xgboost_
 
-**6 - Is maybe you get the similer error just install the library.**
+**7 - Is maybe you get the similer error just install the library.**
 
