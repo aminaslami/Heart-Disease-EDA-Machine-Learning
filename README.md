@@ -4,7 +4,7 @@
 
 1 - Python Version (run code): ***Python 3.7.0***
   
-2 https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
+2 - https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe
   
 3 - Folder path on computer: ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA***
 
