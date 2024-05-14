@@ -8,7 +8,7 @@
   
 3 - Folder path on computer: ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA***
 
-5 - ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA*** Open this path on the Vscode and run the python code
+4 - Open this directory on **Vscode** ***C:\Users\MAA\AppData\Local\Programs\Python\Python37\HEART_DISEASE_EDA*** and run the **python** code
 
 6 - Make your floder and change with your path on your computer change with my path project
 
