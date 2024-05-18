@@ -1,6 +1,6 @@
 # Soruce: https://www.kaggle.com/code/akashkotal/heart-disease-eda-with-7-machine-learning-model
 
-#### The install and run the project is all describe the below:
+#### How to install and run the code is all below, follow the steps:
 
 **EDA Defination:**
 
