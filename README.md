@@ -38,7 +38,6 @@ Here's why EDA is essential in machine learning:
 ![image](https://github.com/aminaslami/Heart-Disease-EDA-Machine-Learning/assets/101183453/01b35a2b-79bd-415d-ab75-4a735eb48234)
 
 
-
 #### 6 - Requirement library:   
   pip install numpy
   
