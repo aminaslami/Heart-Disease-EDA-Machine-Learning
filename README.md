@@ -1,6 +1,6 @@
 # Soruce: https://www.kaggle.com/code/akashkotal/heart-disease-eda-with-7-machine-learning-model
 
-EDA Defination:
+**EDA Defination:**
 
 EDA stands for Exploratory Data Analysis. It's an approach to analyzing datasets to summarize their main characteristics, often with visual methods. EDA is used primarily to understand what data can tell us beyond the formal modeling or hypothesis testing task. It helps in understanding the data, identifying patterns, relationships, anomalies, and to formulate hypotheses for additional analysis.
 
@@ -18,8 +18,8 @@ Here's why EDA is essential in machine learning:
 
   6. Communication: EDA provides a way to communicate insights about the dataset to stakeholders or team members effectively. Visualizations created during EDA can be powerful tools for conveying complex information in a clear and intuitive manner.
 
-**Overall, EDA is a critical first step in the machine learning pipeline, helping you to understand your data better and make informed decisions throughout the modeling process.
-**
+  Overall, EDA is a critical first step in the machine learning pipeline, helping you to understand your data better and make informed decisions throughout the modeling process.
+
 -----------------------------------------------------------------------------
 #### Heart Disease EDA with 7 Machine Learning
 
