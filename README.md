@@ -18,6 +18,8 @@ Here's why EDA is essential in machine learning:
 
   6. Communication: EDA provides a way to communicate insights about the dataset to stakeholders or team members effectively. Visualizations created during EDA can be powerful tools for conveying complex information in a clear and intuitive manner.
 
+**Overall, EDA is a critical first step in the machine learning pipeline, helping you to understand your data better and make informed decisions throughout the modeling process.
+**
 -----------------------------------------------------------------------------
 #### Heart Disease EDA with 7 Machine Learning
 
