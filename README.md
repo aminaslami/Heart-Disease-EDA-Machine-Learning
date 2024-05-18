@@ -16,9 +16,9 @@ Here's why EDA is essential in machine learning:
 
   5. Assumptions Checking: EDA allows you to check assumptions made by your models. For instance, if you're building a linear regression model, you can use EDA to assess whether the assumptions of linearity, homoscedasticity, and normality hold true for your data.
 
-Communication: EDA provides a way to communicate insights about the dataset to stakeholders or team members effectively. Visualizations created during EDA can be powerful tools for conveying complex information in a clear and intuitive manner.
+  6. Communication: EDA provides a way to communicate insights about the dataset to stakeholders or team members effectively. Visualizations created during EDA can be powerful tools for conveying complex information in a clear and intuitive manner.
 
-
+-----------------------------------------------------------------------------
 #### Heart Disease EDA with 7 Machine Learning
 
 1 - Python Version (run code): ***Python 3.7.0***
