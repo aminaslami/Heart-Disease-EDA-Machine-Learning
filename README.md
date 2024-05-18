@@ -1,5 +1,24 @@
 # Soruce: https://www.kaggle.com/code/akashkotal/heart-disease-eda-with-7-machine-learning-model
 
+EDA Defination:
+
+EDA stands for Exploratory Data Analysis. It's an approach to analyzing datasets to summarize their main characteristics, often with visual methods. EDA is used primarily to understand what data can tell us beyond the formal modeling or hypothesis testing task. It helps in understanding the data, identifying patterns, relationships, anomalies, and to formulate hypotheses for additional analysis.
+
+Here's why EDA is essential in machine learning:
+  
+  1. Data Understanding: EDA helps you to understand the structure and composition of your dataset. You can explore the types of features, their distributions, and how they relate to the target variable (if it's a supervised learning problem).
+
+  2. Data Cleaning: During EDA, you often discover missing values, outliers, or inconsistent data. Identifying and addressing these issues is crucial for building reliable models.
+
+  3. Feature Engineering: EDA can inspire feature engineering ideas. By understanding the relationships between features and the target variable, you can create new features or transform existing ones to improve model performance.
+
+  4. Model Selection: EDA can provide insights into which machine learning algorithms are suitable for the dataset. For example, if you notice non-linear relationships between features and the target variable, you might consider using tree-based models instead of linear models.
+
+  5. Assumptions Checking: EDA allows you to check assumptions made by your models. For instance, if you're building a linear regression model, you can use EDA to assess whether the assumptions of linearity, homoscedasticity, and normality hold true for your data.
+
+Communication: EDA provides a way to communicate insights about the dataset to stakeholders or team members effectively. Visualizations created during EDA can be powerful tools for conveying complex information in a clear and intuitive manner.
+
+
 #### Heart Disease EDA with 7 Machine Learning
 
 1 - Python Version (run code): ***Python 3.7.0***
