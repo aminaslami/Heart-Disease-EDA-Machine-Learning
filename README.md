@@ -35,7 +35,8 @@ Here's why EDA is essential in machine learning:
 
 5 - Make your floder and change with your path on your computer change with my path project
 
-![image](https://github.com/aminaslami/Heart-Disease-EDA-Machine-Learning/assets/101183453/4ae2a22e-fa61-46a6-baf0-d6f08b77203b)
+![image](https://github.com/aminaslami/Heart-Disease-EDA-Machine-Learning/assets/101183453/01b35a2b-79bd-415d-ab75-4a735eb48234)
+
 
 
 #### 6 - Requirement library:   
