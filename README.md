@@ -1,5 +1,7 @@
 # Soruce: https://www.kaggle.com/code/akashkotal/heart-disease-eda-with-7-machine-learning-model
 
+#### The install and run the project is all describe the below:
+
 **EDA Defination:**
 
 EDA stands for Exploratory Data Analysis. It's an approach to analyzing datasets to summarize their main characteristics, often with visual methods. EDA is used primarily to understand what data can tell us beyond the formal modeling or hypothesis testing task. It helps in understanding the data, identifying patterns, relationships, anomalies, and to formulate hypotheses for additional analysis.
