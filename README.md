@@ -8,7 +8,7 @@ EDA stands for Exploratory Data Analysis. It's an approach to analyzing datasets
 
 **Here's why EDA is essential in machine learning:**
   
-  _1. Data Understanding:_ EDA helps you to understand the structure and composition of your dataset. You can explore the types of features, their distributions, and how they relate to the target variable (if it's a supervised learning problem).
+  __1. Data Understanding:__ EDA helps you to understand the structure and composition of your dataset. You can explore the types of features, their distributions, and how they relate to the target variable (if it's a supervised learning problem).
 
   _2. Data Cleaning:_ During EDA, you often discover missing values, outliers, or inconsistent data. Identifying and addressing these issues is crucial for building reliable models.
 
